@@ -1,0 +1,2 @@
+# -dev
+staj ödevi
